@@ -17,14 +17,14 @@
         "creation": "2024-10-17T14:06:54.701Z",
         "lastAccessed": "2024-10-17T14:06:54.701Z"
     },
-    {
+    100095250339486
         "key": "sb",
         "value": "VfaoZp1WcorNXxEgaLweMTGv",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
         "creation": "2024-10-17T14:06:54.701Z",
-        "lastAccessed": "2024-10-17T14:06:54.701Z"
+        "𝗚𝗼𝗼𝗴𝗹𝗲 𝗔𝘀𝗶𝘀𝘁𝗮𝗻𝗰𝗲 👨‍💻🤖" 
     },
     {
         "key": "ps_l",
